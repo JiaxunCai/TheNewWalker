@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/frameLayout_outdoor"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+    <TextView
+        	android:id="@+id/_outdoor_radius"
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:text="hello andrew" />
+
+    <TextView
+        android:id="@+id/_outdoor_hi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="hell andrew" />
+
+    <TextView
+        android:id="@+id/_outdoor_lo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="32dp"
+        android:text="hello andrew" />
+    
+    <!-- com.baidu.mapapi.map.MapView 
+        android:id="@+id/bmapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true" /-->
+    
+</FrameLayout>

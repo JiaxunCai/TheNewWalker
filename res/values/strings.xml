@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">行者</string>
+    <string name="title_section1">计步器</string>
+    <string name="title_section2">行走统计</string>
+    <string name="title_section3">步幅步频</string>
+    <string name="title_section4">户外模式</string>
+    <string name="title_section5">健康信息</string>
+    <string name="title_section6">行者锁屏</string>
+    <string name="title_section7">设置</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_jiaxun">计数器的布局</string>
+    <string name="title_activity_outdoor">OutdoorActivity</string>
+    <string name="title_activity_step_count">StepCountActivity</string>
+    <string name="setting_name">姓\t\t\t\t名\t\t\t\t\t</string>
+    <string name="setting_date">生\t\t\t\t日\t\t\t\t\t</string>
+    <string name="setting_height">身\t\t\t\t高\t\t\t\t\t</string>
+    <string name="setting_weight">体\t\t\t\t重\t\t\t\t\t</string>
+    <string name="setting_goal">目标步数\t\t\t</string>
+    <string name="setting_change">修改设置</string>
+    <string name="setting_save">保\t存\t✔</string>
+    <string name="setting_cancel">取\t消\t✗</string>
+
+</resources>

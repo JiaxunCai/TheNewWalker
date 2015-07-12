@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:tools="http://schemas.android.com/tools"  
+    android:layout_width="match_parent"  
+    android:layout_height="match_parent" >
+        
+    
+    	<Button
+    		android:id="@+id/test_button_step_count"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_marginTop="50dp"
+    		android:text="计步器片段"
+    	/>
+    	
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/numOfSteps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="200dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="@dimen/abc_text_size_display_4_material" />
+
+ </RelativeLayout>

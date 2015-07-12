@@ -1,0 +1,7 @@
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/test_button_health_statistics"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="50dp"
+    android:text="健康统计片段"
+    />
